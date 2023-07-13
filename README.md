@@ -38,3 +38,6 @@ If you are looking for a junior fullstack developer with a strong foundation in 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="NextJS" height="40" width="40">
   <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite.js icon" height="40" width="40">
 </p>
+
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/2c30qw25vhikiw13g0lz8aax8)
