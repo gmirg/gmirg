@@ -12,13 +12,14 @@ If you are looking for a junior fullstack developer with a strong foundation in 
 <div>
   <img align="left" width="200" alt="gmirg" src="https://i.imgur.com/0GpADBU.gif" />
     </br>
+    </br>
     &nbsp;&nbsp; - 🔭 I’m currently working on my portfolio</br>
     &nbsp;&nbsp; - 🌱 I’m always learning ...</br>
     &nbsp;&nbsp; - 🌐 I’m looking to collaborate on big projects...</br>
     &nbsp;&nbsp; - 🤘 I love to listen rock music while coding</br>
-    &nbsp;&nbsp; -  I’m looking to collaborate on big projects...</br>
-    &nbsp;&nbsp; - 👯 I’m looking to collaborate on big projects...</br>
-    &nbsp;&nbsp; - 👯 I’m looking to collaborate on big projects...</br>
+    &nbsp;&nbsp;</br>
+    &nbsp;&nbsp;</br>
+    &nbsp;&nbsp;</br>
 </div>
 
 <h2>Languages, Frameworks and Tools <img src = "https://media.giphy.com/media/pdE5y1A7WzKn2kgPdN/giphy.gif" width = 60px ></h2> 
@@ -38,3 +39,9 @@ If you are looking for a junior fullstack developer with a strong foundation in 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="NextJS" height="40" width="40">
   <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite.js icon" height="40" width="40">
 </p>
+<div align="center">
+<h2 align="center">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=gmirg&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gmirg)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gmirg&theme=material-palenight)](https://github.com/gmirg)
+</div>
