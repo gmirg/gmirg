@@ -49,7 +49,7 @@ If you are looking for a junior fullstack developer with a strong foundation in 
 <h2>My contributions to other projects</h2> 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emeder0s&repo=quaTrello)](https://github.com/emeder0s/quaTrello)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeCoronilla&repo=DesafioCruzRoja)](https://github.com/JorgeCoronilla/DesafioCruzRoja)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeCoronilla&repo=ApuApp)](https://github.com/JorgeCoronilla/ApuApp)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JorgeCoronilla&repo=DesafioCruzRoja)](https://github.com/JorgeCoronilla/DesafioCruzRoja)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JorgeCoronilla&repo=ApuApp)](https://github.com/JorgeCoronilla/ApuApp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mariadelaverde98&repo=aerolinea)](https://github.com/Mariadelaverde98/aerolinea)
 
