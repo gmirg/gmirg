@@ -44,4 +44,12 @@ If you are looking for a junior fullstack developer with a strong foundation in 
 
 [![](https://github-readme-stats.vercel.app/api?username=gmirg&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gmirg)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gmirg&theme=material-palenight)](https://github.com/gmirg)
+
 </div>
+<h2>My contributions to other projects</h2> 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emeder0s&repo=quaTrello)](https://github.com/emeder0s/quaTrello)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeCoronilla&repo=DesafioCruzRoja)](https://github.com/JorgeCoronilla/DesafioCruzRoja)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JorgeCoronilla&repo=ApuApp)](https://github.com/JorgeCoronilla/ApuApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mariadelaverde98&repo=aerolinea)](https://github.com/Mariadelaverde98/aerolinea)
+
